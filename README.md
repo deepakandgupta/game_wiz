@@ -3,7 +3,7 @@
 
 ### This is a clone of flappy bird made from scratch Golang
 
-https://user-images.githubusercontent.com/27136846/133938740-496a065b-3e9f-4cec-a97e-f334f25f0189.mov
+https://user-images.githubusercontent.com/27136846/133938792-b105c412-ae51-4c24-bfb1-fc40ebd74d9a.mov
 
 
 
